@@ -1,2 +1,2 @@
-<h1>click the button below to navigate to the about section</h1>
+<h1 class="text-5xl text-center text-white">Your Workouts</h1>
 
